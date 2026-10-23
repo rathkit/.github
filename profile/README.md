@@ -23,3 +23,4 @@ The code is open source under Apache-2.0. RTE also has paid options for larger t
 - [Docs](https://rathkit.com/docs/)
 - [What is free and what may be paid](https://rathkit.com/docs/free-and-paid/)
 - [Security](https://rathkit.com/docs/security/)
+- [Discord](https://discord.gg/A5VBxgPaex), the community
