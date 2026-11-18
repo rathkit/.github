@@ -3,8 +3,9 @@
 This policy applies to every repository in the Rathkit organization that does not have its
 own `SECURITY.md`.
 
-Rathkit's projects (RTE, a rich text editor, and Pack, a bundler) are pre-release and nothing
-is published yet. Reports are still welcome: early reports are the cheapest to fix.
+Rathkit's projects (RTE, a rich text editor, and Pack, a bundler) are in beta: both are
+published (npm under the `next` tag, and Pack on crates.io), and neither is for production yet.
+Reports are welcome: early reports are the cheapest to fix.
 
 ## Reporting a vulnerability
 
@@ -26,6 +27,6 @@ want that.
 
 ## Supported versions
 
-Nothing is released yet. After a project's first release, security fixes ship in its current
-release, for every user. For RTE, safety fixes are never limited to a paid plan; see
+While a project is in beta, security fixes ship in its newest beta, for every user; older
+betas and alphas are not patched, so update to the newest one. For RTE, safety fixes are never limited to a paid plan; see
 [Free and paid](https://rathkit.com/docs/free-and-paid/).
